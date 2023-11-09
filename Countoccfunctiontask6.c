@@ -20,5 +20,5 @@ int main()
     scanf("%d",&target);
     int occurrence=countOccurrence(arr,size,target);
     printf("The integer %d appears in the array %d times.\n",target,occurrence);
-    return 0;
+Â Â Â Â returnÂ 0;
 }
